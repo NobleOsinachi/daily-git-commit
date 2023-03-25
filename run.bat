@@ -1,1 +1,1 @@
-cd "C:\Users\German\Desktop\Code\Python Code\Daily-Git-Commit" & "C:/Users/German/AppData/Local/Programs/Python/Python38/python.exe" "c:/Users/German/Desktop/Code/Python Code/Daily-Git-Commit/main.py"
+cd "C://Users//Noble//SOURCES//REPOS//daily-git-commit" & "C://Users//Noble//AppData//Local//Programs//Python//Python38-32//python.exe"  "C://Users//Noble//SOURCES//REPOS//daily-git-commit//main.py"
