@@ -2,4 +2,4 @@ cd "C://Users//Noble//SOURCES//REPOS//daily-git-commit" & "C://Users//Noble//App
 
 cd "C://Users//Noble//SOURCES//REPOS//test"
 
-node app.js
+node create-pr.js
