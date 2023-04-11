@@ -2,7 +2,7 @@
 
 Commit to repo every day for the perfect commit streak
 
-## Requirments
+## Requirements
 
 `pip install -r requirements.txt`
 
