@@ -2,4 +2,4 @@ cd "C://Users//Noble//SOURCES//REPOS//daily-git-commit" & "C://Users//Noble//App
 
 @REM cd "C://Users//Noble//SOURCES//REPOS//NobleOsinachi//" && node create-pr.js
 
-cd "C:\Users\Noble\SOURCES\REPOS\auto-commit-all-repos" && npm start
+cd "C://Users//Noble//SOURCES//REPOS//auto-commit-all-repos" && npm start
